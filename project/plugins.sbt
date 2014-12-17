@@ -1,7 +1,0 @@
-addSbtPlugin("com.mojolly.scalate" % "xsbt-scalate-generator" % "0.4.2")
-
-addSbtPlugin("org.scalatra.sbt" % "scalatra-sbt" % "0.2.0")
-
-addSbtPlugin("com.typesafe.startscript" % "xsbt-start-script-plugin" % "0.5.3")
-
-addSbtPlugin("com.typesafe.sbteclipse" % "sbteclipse-plugin" % "2.1.2")
