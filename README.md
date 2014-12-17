@@ -1,2 +1,2 @@
 TheIdd
-A Synthetic intelligence at your service.
+a synthetic intelligence at your service.
