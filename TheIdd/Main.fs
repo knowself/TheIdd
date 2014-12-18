@@ -51,7 +51,7 @@ module Site =
         ]
 
     let HomePage =
-        Skin.WithTemplate "HomePage" <| fun ctx ->
+        Skin.WithTemplate "JoePage" <| fun ctx ->
             [
                 Div [Text "HOME"]
                 Div [new Controls.EntryPoint()]
